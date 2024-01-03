@@ -1,0 +1,10 @@
+.hov:hover{
+    background-color: white;
+    color: #65bef2;
+    transition: all 600ms ease 0s;
+}
+
+.box{
+    transition: all 700ms ease 0s;
+    cursor: pointer;
+}
